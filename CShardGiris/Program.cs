@@ -6,7 +6,7 @@ namespace CShardGiris
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Cano!");
 
             int sayi1;  //declaration
             sayi1 = 7; //assignment, set etmek.
@@ -17,7 +17,7 @@ namespace CShardGiris
 
             int sayi2 = 25;
             //Int32 sayi2 = 25;
-            uint= -123
+            uint usayi2 = 123;
 
             Console.WriteLine(int.MaxValue + " - " + int.MinValue);
 
@@ -34,7 +34,7 @@ namespace CShardGiris
             Console.WriteLine("sayi 4: "+ sayi4);
 
             byte sayi5 = 0;
-            sbyte sayi5 = -128;
+            sbyte ssayi5 = 10;
             //Byte sayi5 = 0;
 
             Console.WriteLine("Sıfır: " + sayi5);
